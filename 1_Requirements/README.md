@@ -21,7 +21,7 @@ __STRENGTH__
 * High starting torque, No load speed and Quick starting, Stopping, Reversing and Accleration.
 
 __WEAKNESS__
-* It has High initial cost
+* It has High initial cost and Cannot operate in explosive and hazard conditions due to sparking
 
 __OPPURTUNITIES__
 * Larger throttle body and injectors.using a stronger magnet and increasing the number of turns of wire in the coil and reducing friction between the coil and the axel it rotates on
@@ -39,6 +39,18 @@ WHEN - It is Used when we are using an tools, Electric vehicles, household items
 WHERE - Used in tools, toy and some Industry and Engineering Colleges
 
 HOW - The rotation of the DC motor is accomplished by the force which is developed on a current-carrying conductor in a magnetic field. The current-carrying conductor is connected to the shaft which is able to rotate relative to the stationary body of the DC motor
+## Detail Requirements
+__High Level Requirements__
+|   ID  |     Description    |       Status       |
+| ----- | ------------------ | ------------------ |
+| HLR1  | Permanent Magnet | To Create flux |
+| HLR2  | atmega 328 | UMicrocontroller used for the entire process |
+| HLR3  | Source Code | Used for the Execute the system |
 
-
+__LOW LEVEL REQUIREMENTS__
+| ID  | Description | Status |
+| --- | ----------- | ------ |
+| LLR1 | Windings | No of Turns in the coil |
+| LLR2 | Rotor | To Rotating part of the Motor |
+| LLR3 | Stator | stationary part of motor |
 
