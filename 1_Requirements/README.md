@@ -46,6 +46,7 @@ __High Level Requirements__
 | HLR1  | Permanent Magnet | To Create flux |
 | HLR2  | atmega 328 | Microcontroller used for the entire process |
 | HLR3  | Source Code | Used for the Execute the system |
+| HLR4  | Brushes | To get the output of the motor |
 
 __LOW LEVEL REQUIREMENTS__
 | ID  | Description | Status |
