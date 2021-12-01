@@ -44,7 +44,7 @@ __High Level Requirements__
 |   ID  |     Description    |       Status       |
 | ----- | ------------------ | ------------------ |
 | HLR1  | Permanent Magnet | To Create flux |
-| HLR2  | atmega 328 | UMicrocontroller used for the entire process |
+| HLR2  | atmega 328 | Microcontroller used for the entire process |
 | HLR3  | Source Code | Used for the Execute the system |
 
 __LOW LEVEL REQUIREMENTS__
