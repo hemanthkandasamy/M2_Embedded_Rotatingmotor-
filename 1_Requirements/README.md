@@ -39,9 +39,9 @@ WHO -  Can be done by person having knowledge of Embedded detials
 
 WHAT - The main aim of this project is to reduce Working in High Voltage
 
-WHEN - It is Used when we are using an tools, Electric vehicles, household items and industrial purpose
+WHEN - It is Used when we are using an tools, Electric vehicles, household items and industrial purpose and Do programming of microcontroller and perform simulation
 
-WHERE - Used in tools, toy and some Industry and Engineering Colleges
+WHERE - Used in tools, toy and some Industry and Engineering Colleges Research purpose  by Laptop or personal computer
 
 HOW - The rotation of the DC motor is accomplished by the force which is developed on a current-carrying conductor in a magnetic field. The current-carrying conductor is connected to the shaft which is able to rotate relative to the stationary body of the DC motor
 ## Detail Requirements
