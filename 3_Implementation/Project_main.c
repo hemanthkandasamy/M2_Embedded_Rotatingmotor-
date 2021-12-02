@@ -1,21 +1,19 @@
 #include <avr/io.h>
-#define F_CPU 1000000
-#include <util/delay.h>
-
-
 int main(void)
 {
-	DDRA = 0x81;
-	
-	while(1)
-	{
-		PORTA = 0x01;
-		_delay_ms(1000);
-		PORTA = 0x00;
-		_delay_ms(500);
-		PORTA = 0x80;
-		_delay_ms(1000);
-		PORTA = 0x00;
-		_delay_ms(500);
-	}
+  DDRB=0x00;
+  PORTB=0xFF;
+  DDRC=0xFF;
+  while(1)
+  {
+if(PINB&0b00000001)//02
+{
+PORTC=0x00;   
+}
+else
+{ 
+PORTC=0x01; 
+}
+  }
+  return 0;
 }
