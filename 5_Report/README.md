@@ -37,28 +37,29 @@ __THREATS__
 # 4W'S and 1'H
 WHO - Can be done by person having knowledge of Embedded detials
 
-WHAT - The main aim of this project is to reduce Working in High Voltage
+WHAT - The main aim of this project is to reduce Working in High Voltage and Do programming of microcontroller and perform simulation
 
 WHEN - It is Used when we are using an tools, Electric vehicles, household items and industrial purpose
 
-WHERE - Used in tools, toy and some Industry and Engineering Colleges
+WHERE - Used in tools, toy and some Industry and Engineering Colleges for Research purpose  by Laptop or personal computer
 
 HOW - The rotation of the DC motor is accomplished by the force which is developed on a current-carrying conductor in a magnetic field. The current-carrying conductor is connected to the shaft which is able to rotate relative to the stationary body of the DC motor
 ## Detail Requirements
 __High Level Requirements__
 |   ID  |     Description    |       Status       |
 | ----- | ------------------ | ------------------ |
-| HLR1  | Permanent Magnet | To Create flux |
-| HLR2  | atmega 328 | Microcontroller used for the entire process |
-| HLR3  | Source Code | Used for the Execute the system |
-| HLR4  | Brushes | To get the output of the motor |
+| HLR_1 | The user can change its selected sign("ON","OFF") | Implemented |
+| HLR_1 | The user can ON and OFF the DC motor | Implemented |
+| HLR_2	| atmega 328 Microcontroller used for the entire process |  Implemented |
+| HLR_3 | Source Code is used for the execute the system |  Implemented |
+
 
 __LOW LEVEL REQUIREMENTS__
 | ID  | Description | Status |
 | --- | ----------- | ------ |
-| LLR1 | Windings | No of Turns in the coil |
-| LLR2 | Rotor | To Rotating part of the Motor |
-| LLR3 | Stator | stationary part of motor |
+| LLR_1 | List of Operations displayed | Implemented |
+| LLR_2 | Input from the user | Implemented |
+| LLR_3 | Exit the program | Implemented |
 
 
 ![Direct_Current_Electrical_Motor_Model(_DC_Motor_)_50_degree_split_ring](https://user-images.githubusercontent.com/94169511/144233007-766c7bfe-2b46-4661-99ef-998853ab7646.gif)
