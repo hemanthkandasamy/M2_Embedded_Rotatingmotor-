@@ -17,7 +17,7 @@ If we stretch the first finger, second finger and thumb of our left hand to be p
 ##Features
 * The absence of changes in polarity
 * Runs on DC power or AC line voltage with a rectifier
-* Operating speeds of 1,000 to 5,000 rpm
+* Operating speeds of 1000 to 5000 rpm
 * 60-75% efficiency rate
 * High starting torque
 * Low no-load speeds
