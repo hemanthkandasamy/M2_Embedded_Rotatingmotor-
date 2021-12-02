@@ -10,5 +10,4 @@ int main(void)
   
   /**
   return the value*/
-  
- return 0;
+return 0;
