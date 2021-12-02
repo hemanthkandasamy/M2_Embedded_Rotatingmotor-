@@ -5,11 +5,11 @@
 
 
 ## Folder Structure
-| Folder | Description |
-| ------ | ----------- |
-| 1_Requirements | Details of requirements and research |
-| 2_Designs | All Designs |
-| 3_Implementation | All code and Makefile |
-| 4_Test Plan | Test plans and Procedures |
-| 5_Report | Documentation of Whole project |
-| 6_Images | Output Images |
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan and Output`      | Documents with test plans and procedures
+`5_Report`         | Documentation of whole project
+`6_Images and Viedo` | Images andvideo of this project
