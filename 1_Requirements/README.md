@@ -48,15 +48,17 @@ HOW - The rotation of the DC motor is accomplished by the force which is develop
 __High Level Requirements__
 |   ID  |     Description    |       Status       |
 | ----- | ------------------ | ------------------ |
-| HLR1  | Permanent Magnet | To Create flux |
-| HLR2  | atmega 328 | Microcontroller used for the entire process |
-| HLR3  | Source Code | Used for the Execute the system |
-| HLR4  | Brushes | To get the output of the motor |
+| HLR_1 | The user can change its selected sign("ON","OFF") | Implemented |
+| HLR_1 | The user can ON and OFF the DC motor | Implemented |
+| HLR_2	| atmega 328 Microcontroller used for the entire process |  Implemented |
+| HLR_3 | Source Code is used for the execute the system |  Implemented |
+
 
 __LOW LEVEL REQUIREMENTS__
 | ID  | Description | Status |
 | --- | ----------- | ------ |
-| LLR1 | Windings | No of Turns in the coil |
-| LLR2 | Rotor | To Rotating part of the Motor |
-| LLR3 | Stator | stationary part of motor |
+| LLR_1 | List of Operations displayed | Implemented |
+| LLR_2 | Input from the user | Implemented |
+| LLR_3 | Exit the program | Implemented |
+
 
