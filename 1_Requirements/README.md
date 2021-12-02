@@ -17,8 +17,8 @@ If we stretch the first finger, second finger and thumb of our left hand to be p
 ##Features 
 *  Operating speeds of  1000  to  5000  rpm
 *  60 - 75 % efficiency rate
-* High staring torque
-*  Low no-load speeds
+*  High staring torque
+*  There is Low no-load speed.
 ## SWOT Analysis
 __STRENGTH__
 *  High starting torque, No load speed and Quick starting, Stopping, Reversing and Accleration.
