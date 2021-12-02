@@ -1,5 +1,5 @@
 ## Requirements
-##Introduction
+## Introduction
    A Direct Current (DC) motor is a type of Electric machine that converts Electrical energy into Mechanical energy. DC motors take Electrical power through Direct current, and convert this energy into Mechanical rotation. The Output Torque and speed depends upon both the Electrical input and the Design of the Motor.
 ## Research
 DC Motor is one  of the  traditional electric  machines, is  appeared in the late  of 19th century. In compared to the other electric machine. DC Motors are still commonly used in industrial fields such as steel rolling, transportation, construction.
