@@ -14,11 +14,8 @@ It converts Electrical energy into Mechanical energy.
 The direction of this force is given by Fleming's left-hand rule and its magnitude is given by F = BIL. Where, B = magnetic flux density, I = current and L = length of the conductor within the magnetic field. 
 ## Fleming's left hand rule
 If we stretch the first finger, second finger and thumb of our left hand to be perpendicular to each other, and the direction of magnetic field is represented by the first finger, direction of the current is represented by the second finger, then the thumb represents direction of the force experienced by the current carrying conductor.
-##Features 
-1. Operating speeds of  1000  to  5000  rpm
-2. 60 - 75 % efficiency rate
-3. High staring torque
-4. There is Low no-load speed.
+## Features 
+The Operating speeds is  1000  to  5000  rpm and having efficency of 60 - 75 %  and it is High staring torque and Low no-load speed.
 ## SWOT Analysis
 __STRENGTH__ High starting torque, No load speed and Quick starting, Stopping, Reversing and Accleration.
 
