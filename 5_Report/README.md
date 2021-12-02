@@ -35,7 +35,7 @@ __THREATS__
 * Common causes of winding failure include high temperature. if we mistaked at any wiring configuration, it will create huge problem
 
 # 4W'S and 1'H
-WHO -  At home, small DC motors are used in tools, toys and various household appliances. In retail, the applications of DC motors include conveyors and turntables, while in an industrial setting, large DC motor uses also include braking and reversing applications
+WHO - Can be done by person having knowledge of Embedded detials
 
 WHAT - The main aim of this project is to reduce Working in High Voltage
 
