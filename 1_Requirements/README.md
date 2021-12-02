@@ -15,22 +15,18 @@ The direction of this force is given by Fleming's left-hand rule and its magnitu
 ## Fleming's left hand rule
 If we stretch the first finger, second finger and thumb of our left hand to be perpendicular to each other, and the direction of magnetic field is represented by the first finger, direction of the current is represented by the second finger, then the thumb represents direction of the force experienced by the current carrying conductor.
 ##Features 
-*  Operating speeds of  1000  to  5000  rpm
-*  60 - 75 % efficiency rate
-*  High staring torque
-*  There is Low no-load speed.
+1. Operating speeds of  1000  to  5000  rpm
+2. 60 - 75 % efficiency rate
+3. High staring torque
+4. There is Low no-load speed.
 ## SWOT Analysis
-__STRENGTH__
-*  High starting torque, No load speed and Quick starting, Stopping, Reversing and Accleration.
+__STRENGTH__ High starting torque, No load speed and Quick starting, Stopping, Reversing and Accleration.
 
-__WEAKNESS__
-*  It has High initial cost and Cannot operate in explosive and hazard conditions due to sparking
+__WEAKNESS__ It has High initial cost and Cannot operate in explosive and hazard conditions due to sparking
 
-__OPPURTUNITIES__
-*  Larger throttle body and injectors. using a stronger magnet and increasing the number of turns of wire in the coil and reducing friction between the coil and the axel it rotates on.
+__OPPURTUNITIES__ Larger throttle body and injectors. using a stronger magnet and increasing the number of turns of wire in the coil and reducing friction between the coil and the axel it rotates on.
 
-__THREATS__
-*  Common causes of winding failure include high temperature. if we mistaked at any wiring configuration, it will create huge problem
+__THREATS__ Common causes of winding failure include high temperature. if we mistaked at any wiring configuration, it will create huge problem
 
 ## 4W'S and 1'H
 WHO -  Can be done by person having knowledge of Embedded detials
