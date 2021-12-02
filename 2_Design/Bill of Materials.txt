@@ -1,4 +1,3 @@
-
 Circuit: new.simu
 
 Bill of Materials:
