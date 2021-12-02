@@ -32,7 +32,7 @@ __OPPURTUNITIES__
 __THREATS__
 *  Common causes of winding failure include high temperature. if we mistaked at any wiring configuration, it will create huge problem
 
-##4W'S and 1'H
+## 4W'S and 1'H
 WHO -  Can be done by person having knowledge of Embedded detials
 
 WHAT - The main aim of this project is to reduce Working in High Voltage
