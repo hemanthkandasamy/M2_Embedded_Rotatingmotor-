@@ -17,8 +17,8 @@ If we stretch the first finger, second finger and thumb of our left hand to be p
 ##Features 
 *  Operating speeds of  1000  to  5000  rpm
 *  60 - 75 % efficiency rate
-* High staring torque
-*  Low no-load speeds
+*  High staring torque
+*   There is Low no load speed.
 ## SWOT Analysis
 __STRENGTH__
 *  High starting torque, No load speed and Quick starting, Stopping, Reversing and Accleration.
@@ -57,9 +57,7 @@ __LOW LEVEL REQUIREMENTS__
 | LLR_2 | Input from the user | Implemented |
 | LLR_3 | Exit the program | Implemented |
 
-
 ![Direct_Current_Electrical_Motor_Model(_DC_Motor_)_50_degree_split_ring](https://user-images.githubusercontent.com/94169511/144233007-766c7bfe-2b46-4661-99ef-998853ab7646.gif)
-
 
 ![Stimulation](https://user-images.githubusercontent.com/94169511/144357726-4b9f43b7-1259-4c73-b566-ba2dbac57e87.JPG)
 
