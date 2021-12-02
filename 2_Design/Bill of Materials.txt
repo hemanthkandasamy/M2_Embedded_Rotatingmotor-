@@ -1,7 +1,6 @@
 Circuit: new.simu
 
 Bill of Materials:
-
 DcMotor-2 : DcMotor 100 Ω
 Switch-3 : Switch   
 atmega328-1 : atmega328   
