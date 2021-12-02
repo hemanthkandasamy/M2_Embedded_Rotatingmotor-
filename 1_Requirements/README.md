@@ -27,7 +27,7 @@ __WEAKNESS__
 *  It has High initial cost and Cannot operate in explosive and hazard conditions due to sparking
 
 __OPPURTUNITIES__
-*  Larger throttle body and injectors.using a stronger magnet and increasing the number of turns of wire in the coil and reducing friction between the coil and the axel it rotates on
+*  Larger throttle body and injectors. using a stronger magnet and increasing the number of turns of wire in the coil and reducing friction between the coil and the axel it rotates on.
 
 __THREATS__
 *  Common causes of winding failure include high temperature. if we mistaked at any wiring configuration, it will create huge problem
